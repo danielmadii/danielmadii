@@ -4,6 +4,7 @@
 
 <br/>
 
+[![Hala AI](https://img.shields.io/badge/tryhala.ai-0d1f3c?style=flat-square&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgd2lkdGg9IjE0IiBoZWlnaHQ9IjE0Ij4KICA8cmVjdCB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHJ4PSI0IiBmaWxsPSIjMGQxZjNjIi8+CiAgPHRleHQgeD0iMTIiIHk9IjE3IiBmb250LWZhbWlseT0ic2Fucy1zZXJpZiIgZm9udC13ZWlnaHQ9IjcwMCIgZm9udC1zaXplPSIxNCIgZmlsbD0id2hpdGUiIHRleHQtYW5jaG9yPSJtaWRkbGUiPkg8L3RleHQ+Cjwvc3ZnPgo=&logoColor=white)](https://www.tryhala.ai)&nbsp;
 [![X](https://img.shields.io/badge/X-%230A0A0A.svg?style=flat-square&logo=x&logoColor=white)](https://x.com/danielmadii)&nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-%23121212.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/danielmadii)
 
