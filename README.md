@@ -4,8 +4,8 @@
 
 <br/>
 
-[![X](https://img.shields.io/badge/X-%230A0A0A.svg?style=flat-square&logo=x&logoColor=white)](https://x.com/itisdaniell)&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-%23121212.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/itisdaniell)
+[![X](https://img.shields.io/badge/X-%230A0A0A.svg?style=flat-square&logo=x&logoColor=white)](https://x.com/danielmadii)&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-%23121212.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/danielmadii)
 
 <br/>
 
@@ -35,13 +35,13 @@ AI agents for **support**, **lead qualification**, **bookings**, and **customer 
 
 <div align="center">
 
-<img height="155" src="https://github-readme-stats.vercel.app/api?username=itisdaniell&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&text_color=94a3b8&icon_color=475569&title_color=e2e8f0&include_all_commits=true&count_private=true&rank_icon=github" />
+<img height="155" src="https://github-readme-stats.vercel.app/api?username=danielmadii&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&text_color=94a3b8&icon_color=475569&title_color=e2e8f0&include_all_commits=true&count_private=true&rank_icon=github" />
 &nbsp;&nbsp;
-<img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itisdaniell&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&text_color=94a3b8&title_color=e2e8f0&langs_count=6" />
+<img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielmadii&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&text_color=94a3b8&title_color=e2e8f0&langs_count=6" />
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=itisdaniell&bg_color=0d1117&color=475569&line=1e293b&point=94a3b8&hide_border=true&area=true&area_color=0f172a" width="96%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=danielmadii&bg_color=0d1117&color=475569&line=1e293b&point=94a3b8&hide_border=true&area=true&area_color=0f172a" width="96%" />
 
 <br/>
 
