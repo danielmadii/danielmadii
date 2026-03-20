@@ -1,71 +1,67 @@
 <div align="center">
 
-# Daniel Madi
+<img src="https://capsule-render.vercel.app/api?type=waving&height=160&color=0:0f172a,100:111827&text=Daniel%20Madi&fontColor=ffffff&fontAlignY=35&desc=Founder%20%7C%20Engineer%20%7C%20Building%20AI%20Systems&descAlignY=55" width="100%" />
 
-### Founder building AI products, automation systems, and scalable digital infrastructure
+<p>
+  <a href="https://x.com/itisdaniell">
+    <img src="https://img.shields.io/badge/X-0A0A0A?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
+  <a href="https://github.com/itisdaniell">
+    <img src="https://img.shields.io/badge/GitHub-121212?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/itisdaniell)
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=18&duration=3000&pause=1200&color=94A3B8&center=true&vCenter=true&width=900&lines=Building+AI+products+that+solve+real+business+problems;Shipping+automation%2C+infrastructure%2C+and+customer-facing+systems;Focused+on+execution%2C+not+noise" alt="Typing SVG" />
 
 </div>
 
 ---
 
-## Overview
+## Current Build
 
-I’m a founder and engineer focused on turning technical systems into real-world products.
-
-My work includes building AI-driven tools, designing scalable backend infrastructure, creating modern web applications, and solving operational problems through software.
-
-I’m especially interested in products that combine:
-- AI
-- automation
-- strong engineering fundamentals
-- commercial usefulness
+- Building **Hala AI** — AI agents for customer conversations, lead qualification, support, and bookings
+- Designing systems across **web, voice, WhatsApp, backend workflows, and internal operations**
+- Working on **scalable product architecture**, **automation pipelines**, and **deployment infrastructure**
 
 ---
 
-## Focus Areas
+## Selected Technologies
 
-- AI applications and intelligent workflows
-- full-stack product development
-- backend architecture and integrations
-- cloud deployment and systems engineering
-- cybersecurity-aware software design
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,js,nodejs,react,nextjs,php,python,mysql,docker,linux,aws,cloudflare,git,github,figma&perline=8" />
+</p>
 
 ---
 
-## Stack
+## Live Signal
 
-**Languages**  
-JavaScript, TypeScript, PHP, Python, SQL
+<div align="center">
 
-**Frontend**  
-React, Next.js, Tailwind CSS, HTML, CSS
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=itisdaniell&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itisdaniell&layout=compact&hide_border=true&theme=transparent" />
 
-**Backend & Infrastructure**  
-Node.js, Express, Apache, MySQL, MariaDB, Docker, Linux, Cloudflare, AWS
+</div>
 
-**Tools**  
-Git, GitHub, VS Code, Figma, Jira, Confluence
-
----
-
-## What Drives Me
-
-I like building systems that are:
-- clean
-- fast
-- resilient
-- commercially valuable
-
-Good software should do more than work. It should reduce friction, create leverage, and scale.
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=itisdaniell&hide_border=true&theme=transparent" />
+</div>
 
 ---
 
-## Contact
+## Operating Principles
+
+- Build useful systems
+- Reduce friction
+- Move with speed
+- Keep infrastructure clean
+- Prefer leverage over noise
+
+---
+
+## Connect
 
 - X: [@itisdaniell](https://x.com/itisdaniell)
 
 <div align="center">
-  <sub>Engineer first. Founder always. Focused on building what matters.</sub>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0f172a,100:111827" width="100%" />
 </div>
