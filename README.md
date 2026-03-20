@@ -28,7 +28,7 @@ AI agents for **support**, **lead qualification**, **bookings**, and **customer 
 ### Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,nodejs,react,nextjs,python,php,mysql,docker,aws,cloudflare,linux,git,figma&perline=7" />
+  <img src="https://skillicons.dev/icons?i=ts,js,nodejs,react,nextjs,python,php,mysql,postgres,redis,mongodb,docker,kubernetes,aws,gcp,cloudflare,nginx,linux,git,github,vscode,figma,tailwind,prisma&perline=8" />
 </p>
 
 ---
