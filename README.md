@@ -1,6 +1,7 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=160&color=0:0f172a,100:111827&text=Daniel%20Madi&fontColor=ffffff&fontAlignY=35&desc=Founder%20%7C%20Engineer%20%7C%20Building%20AI%20Systems&descAlignY=55" width="100%" />
+<h1>Daniel Madi</h1>
+<h3>Founder building AI systems and digital infrastructure</h3>
 
 <p>
   <a href="https://x.com/itisdaniell">
@@ -11,57 +12,27 @@
   </a>
 </p>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=18&duration=3000&pause=1200&color=94A3B8&center=true&vCenter=true&width=900&lines=Building+AI+products+that+solve+real+business+problems;Shipping+automation%2C+infrastructure%2C+and+customer-facing+systems;Focused+on+execution%2C+not+noise" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=18&duration=3200&pause=1000&color=94A3B8&center=true&vCenter=true&width=900&lines=Building+Hala+AI;AI+agents+for+real-world+operations;Shipping+systems%2C+not+theory" alt="Typing SVG" />
 
 </div>
 
----
+<br/>
 
-## Current Build
+## Building
 
-- Building **Hala AI** — AI agents for customer conversations, lead qualification, support, and bookings
-- Designing systems across **web, voice, WhatsApp, backend workflows, and internal operations**
-- Working on **scalable product architecture**, **automation pipelines**, and **deployment infrastructure**
+**Hala AI**  
+AI agents for support, lead qualification, bookings, and customer communication across chat, voice, and operational workflows.
 
----
+<br/>
 
-## Selected Technologies
+## Technologies
 
 <p>
   <img src="https://skillicons.dev/icons?i=ts,js,nodejs,react,nextjs,php,python,mysql,docker,linux,aws,cloudflare,git,github,figma&perline=8" />
 </p>
 
----
-
-## Live Signal
+<br/>
 
 <div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=itisdaniell&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itisdaniell&layout=compact&hide_border=true&theme=transparent" />
-
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=itisdaniell&hide_border=true&theme=transparent" />
-</div>
-
----
-
-## Operating Principles
-
-- Build useful systems
-- Reduce friction
-- Move with speed
-- Keep infrastructure clean
-- Prefer leverage over noise
-
----
-
-## Connect
-
-- X: [@itisdaniell](https://x.com/itisdaniell)
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0f172a,100:111827" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=itisdaniell&bg_color=00000000&color=94a3b8&line=64748b&point=cbd5e1&hide_border=true" width="100%" />
 </div>
